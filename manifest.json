@@ -2,6 +2,6 @@
   "version": "1.0",
   "firmware": "https://raw.githubusercontent.com/Anhtrong01/esp32-ota/main/firmware.bin",
   "signature": "https://raw.githubusercontent.com/Anhtrong01/esp32-ota/main/firmware.sig",
-  "sha256": "82e21540decb89d05a3b00f0efe135b765c3b64275037ecffb6b1ae2e5bef551",
-  "size": 1101072
+  "sha256": "a8de0032efde78a48715d830b16c4b0195642d5c1ca804c7aca4b5bb9360905d",
+  "size": 309632
 }
